@@ -470,7 +470,7 @@
                 );
             }
         });
-    }
+    } 
 </script>
 <script>
     //Multiselect with select2 dropdown 

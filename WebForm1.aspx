@@ -20,18 +20,18 @@
             <div class="col-md-4">
                 <div class="card">
                     <div class="card-header">
-                        <h4>Login</h4>
+                        <h4>Login</h4> 
                     </div>
                     <div class="card-body">
                         <form>
                             <div class="form-group">
                                 <label for="username">Username:</label>
-                                <input type="text" class="form-control" id="username" placeholder="Enter username" />
+                                <input type="text" class="form-control" id="username" placeholder="Enter username" /> 
                             </div>
                             <label for="username">Enter PIN:</label>
                             <div class="btn-group-vertical ml-4 mt-4" role="group" aria-label="Basic example">
                                 <div class="btn-group">
-                                    <input class="text-center form-control-lg mb-2" id="code" type="number" maxlength="4" />
+                                    <input class="text-center form-control-lg mb-2" id="code" type="number" maxlength="4" /> 
                                 </div>
                                 <div class="btn-group">
                                     <button type="button" class="btn btn-outline-secondary py-3" onclick="document.getElementById('code').value=document.getElementById('code').value + '1';">1</button>
